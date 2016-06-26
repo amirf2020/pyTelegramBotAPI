@@ -662,7 +662,7 @@ class TeleBot:
 
         Example:
 
-        bot = TeleBot('TOKEN')
+        bot = TeleBot('226346511:AAG4txlW5mjLEED0XqYuMwBGX8vf7DdTkmI')
 
         # Handles all messages which text matches regexp.
         @bot.message_handler(regexp='someregexp')
